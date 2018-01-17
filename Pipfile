@@ -7,6 +7,17 @@ name = "pypi"
 
 [packages]
 
+keras = "*"
+tensorflow = "*"
+numpy = "*"
+scipy = "*"
+scikit-learn = "*"
+pandas = "*"
+deap = "*"
+update-checker = "*"
+tqdm = "*"
+stopit = "*"
+tpot = "*"
 
 
 [dev-packages]
